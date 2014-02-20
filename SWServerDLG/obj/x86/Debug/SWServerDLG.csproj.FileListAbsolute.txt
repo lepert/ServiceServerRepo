@@ -1,0 +1,18 @@
+C:\Users\lepert\Desktop\jobTest\ServiceServer\SWServerDLG\bin\Debug\SWServerDLG.exe
+C:\Users\lepert\Desktop\jobTest\ServiceServer\SWServerDLG\bin\Debug\SWServerDLG.pdb
+C:\Users\lepert\Desktop\jobTest\ServiceServer\SWServerDLG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lepert\Desktop\jobTest\ServiceServer\SWServerDLG\obj\x86\Debug\SWServerDLG.Properties.Resources.resources
+C:\Users\lepert\Desktop\jobTest\ServiceServer\SWServerDLG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lepert\Desktop\jobTest\ServiceServer\SWServerDLG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lepert\Desktop\jobTest\ServiceServer\SWServerDLG\obj\x86\Debug\SWServerDLG.exe
+C:\Users\lepert\Desktop\jobTest\ServiceServer\SWServerDLG\obj\x86\Debug\SWServerDLG.pdb
+C:\Users\lepert\Desktop\jobTest\ServiceServer\SWServerDLG\obj\x86\Debug\SWServerDLG.ServMainDialog.resources
+C:\Users\lepert\Desktop\jobTest - копия (2)\ServiceServer\SWServerDLG\bin\Debug\SWServerDLG.exe
+C:\Users\lepert\Desktop\jobTest - копия (2)\ServiceServer\SWServerDLG\bin\Debug\SWServerDLG.pdb
+C:\Users\lepert\Desktop\jobTest - копия (2)\ServiceServer\SWServerDLG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lepert\Desktop\jobTest - копия (2)\ServiceServer\SWServerDLG\obj\x86\Debug\SWServerDLG.ServMainDialog.resources
+C:\Users\lepert\Desktop\jobTest - копия (2)\ServiceServer\SWServerDLG\obj\x86\Debug\SWServerDLG.Properties.Resources.resources
+C:\Users\lepert\Desktop\jobTest - копия (2)\ServiceServer\SWServerDLG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lepert\Desktop\jobTest - копия (2)\ServiceServer\SWServerDLG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lepert\Desktop\jobTest - копия (2)\ServiceServer\SWServerDLG\obj\x86\Debug\SWServerDLG.exe
+C:\Users\lepert\Desktop\jobTest - копия (2)\ServiceServer\SWServerDLG\obj\x86\Debug\SWServerDLG.pdb
